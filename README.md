@@ -17,6 +17,9 @@ Signals used:
 - Location in biotech hubs
 - Recent scientific publications
 
+## Live Demo
+https://lead-scoring-agent.streamlit.app
+
 ## How to Run Locally
 ```bash
 pip install -r requirements.txt
